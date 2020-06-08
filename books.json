@@ -1,0 +1,1 @@
+{"books": {"book_1": {"load_loc": [[0.5, 0.5], [1.0, 0.5]], "loc": [0.75, 0.5], "subject": "Operating Systems Architecture", "size": "small"}, "book_2": {"load_loc": [[0.5, 0.0], [1.0, 0.0]], "loc": [0.75, 0.0], "subject": "Operating Systems Architecture", "size": "large"}}}
